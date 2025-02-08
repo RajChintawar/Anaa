@@ -7,6 +7,19 @@
 }
 
 
+
+h1{
+  align-self:flex-start;
+  padding-top: 20px;
+  color: #00fffa;
+  z-index: 10;
+  position: absolute;
+}
+
+
+
+
+
 img{
   position: absolute;
   display: block;
