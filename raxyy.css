@@ -7,6 +7,17 @@
   /* font-family: sans-serif; */
 }
 
+footer{
+colour:white;
+position: absolute;
+z-index:10;
+
+}
+
+
+
+
+
 h1{
     align-self:flex-start;
     padding-top: 20px;
